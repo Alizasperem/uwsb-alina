@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-nowy plik 1
-=======
-nowy plik tekstowy.
->>>>>>> e41459133386d526a01337586c8e0612e0358ea9
