@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 nowy plik 2
+=======
+drugi plik tekstowy.
+>>>>>>> e41459133386d526a01337586c8e0612e0358ea9
