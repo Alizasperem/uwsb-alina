@@ -1,5 +1,7 @@
 # uwsb-alina
 
 Hello world!
-Ala ma kota
 To jest plik readme
+
+
+plik zmodyfikowany przez kogoś innego
